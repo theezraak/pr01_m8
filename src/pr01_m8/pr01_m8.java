@@ -12,12 +12,13 @@ bw.newLine();
 bw.write(" <head>");bw.newLine();
 
 bw.write(" <title>");bw.newLine(); bw.write(" Nova p&agrave;gina web");
-//asdasdas
+System.out.println("Patataaaaa");
 bw.newLine(); bw.write(" </title>"); bw.newLine(); bw.write(" </head>"); bw.newLine();
-//asfgasgasg
+
 bw.write(" <body>");
 bw.newLine();
 bw.write(" Nova p&agrave;gina web"); bw.newLine();
+bw.write(" Feta per marc."); bw.newLine();
 bw.write(" </body>");
 bw.newLine();
 bw.write("</html>");
