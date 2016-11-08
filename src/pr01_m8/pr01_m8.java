@@ -14,7 +14,7 @@ bw.write(" <head>");bw.newLine();
 bw.write(" <title>");bw.newLine(); bw.write(" Nova p&agrave;gina web");
 System.out.println("Patataaaaa");
 bw.newLine(); bw.write(" </title>"); bw.newLine(); bw.write(" </head>"); bw.newLine();
-
+//jaja
 bw.write(" <body>");
 bw.newLine();
 bw.write(" Nova p&agrave;gina web"); bw.newLine();
